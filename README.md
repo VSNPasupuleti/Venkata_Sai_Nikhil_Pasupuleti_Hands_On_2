@@ -6,7 +6,7 @@
 ## Project Overview
 
 
-In this project, I have built classification, regression models and Clustering models using the Real Esatate from Californmia dataset taken from Kaggle. The goal of this project is to explore and predict Real Estate Prices using different machine learning techniques.
+In this project, I have built classification, regression models and Clustering models using the Real Esatate from Chicago dataset taken from Kaggle. The goal of this project is to explore and predict Real Estate Prices using different machine learning techniques.
 
 ## Models Developed
 
@@ -48,21 +48,10 @@ Ridge, Lasso Regression and Elasti Regressions
 Each model was evaluated using appropriate metrics such as accuracy, precision, recall, F1-score for classification, and Mean Squared Error (MSE) and R-squared for regression.
 
 
-## Why Use Google Colab?
-
-
-All the code for this project is written in Google Colab, an excellent platform for data science and machine learning projects. I highly recommend using Google Colab due to its user-friendly environment and powerful features:
-
-
-Free GPU/TPU Access: Speed up your model training with free access to GPUs and TPUs.
-Interactive Notebooks: Google Colab allows you to write and execute code in an interactive notebook format, making it ideal for quick experimentation.
-No Setup Required: No need to install software or manage environments. Just open a new notebook and start coding!
-You can explore the entire project and run the code interactively using Google Colab for a smooth and hassle-free experience.
 
 ## References:
 
-
-https://archive.ics.uci.edu/dataset/2/adult
+chicago house price. (2023, May 20). Kaggle. https://www.kaggle.com/datasets/tawfikelmetwally/chicago-house-price 
 
 
 https://medium.com/analytics-vidhya/building-classification-model-with-python-9bdfc13faa4b
